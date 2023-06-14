@@ -1,3 +1,17 @@
+Build a News App using LWC and Apex REST Callouts
+
+Build a News App using the lightning web component and Apex REST Callouts. I am covering the following topics in this session
+1. Remote Site Setting
+2. Creation of Lightning App Page
+3. Apex class to call REST API(news API)
+4. Display Data on Lightning Web Component
+5. Deploy your component
+6. Display your component
+
+
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
